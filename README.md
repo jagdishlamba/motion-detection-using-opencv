@@ -20,13 +20,13 @@ This project implements an Intrusion Detection System using computer vision tech
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository.
 
-2. Create and activate a virtual environment (optional but recommended):
+2. Create and activate a virtual environment (optional but recommended).
 
-3. Install the required dependencies:
+3. Install the required dependencies.
 
-4. Run the application:
+4. Run the application.
 
 
 ## Instructions
@@ -39,7 +39,7 @@ This project implements an Intrusion Detection System using computer vision tech
 
 4. To remove the last defined ROI, right-click the mouse.
 
-5. Press the Esc key to reset the ROI and start anew.
+5. Press the Esc key to reset the ROI and start a new.
 
 6. The application will track motion within the defined ROI. If an intrusion is detected, the ROI will be highlighted in red, and an audio alarm will be raised.
 
